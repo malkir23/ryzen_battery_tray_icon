@@ -1,0 +1,1 @@
+# ryzen_battery_tray_icon
